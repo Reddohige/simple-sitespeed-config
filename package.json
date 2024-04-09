@@ -1,0 +1,12 @@
+{
+  "name": "simple-sitespeed-config",
+  "version": "1.0.0",
+  "description": "simple-sitespeed-config",
+  "main": "",
+  "repository": "https://github.com/Reddohige/simple-sitespeed-config.git",
+  "author": "Reddohige",
+  "license": "MIT",
+  "scripts": {
+    "analyze": "sitespeed.io --config sitespeed-config.json --multi urls.txt"
+  }
+}
